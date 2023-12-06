@@ -5,14 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Notandi/Documents/WackyCarZone/Game5Lokaverkefni/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Notandi/Documents/WackyCarZone/Game5Lokaverkefni/Content/ToonShader/M_ChelShader.uasset",
+				"C:/Users/Notandi/Documents/WackyCarZone/Game5Lokaverkefni/Content/ToonShader/M_ToonShader.uasset",
+				"C:/Users/Notandi/Documents/WackyCarZone/Game5Lokaverkefni/Content/StylizedFarm/Maps/ShowcaseMap_Night.umap",
+				"C:/Users/Notandi/Documents/WackyCarZone/Game5Lokaverkefni/Content/SkySphere/MOON.uasset",
+				"C:/Users/Notandi/Documents/WackyCarZone/Game5Lokaverkefni/Content/SkySphere/CLOUOUD_Inst.uasset",
 				"C:/Users/hetja/Documents/WackyCarZone/Game5Lokaverkefni/Content/Sindri_Blueprints/TheBat.uasset",
 				"C:/Users/hetja/Documents/WackyCarZone/Game5Lokaverkefni/Content/Sindri_Blueprints/Bat.uasset",
 				"C:/Users/hetja/Documents/WackyCarZone/Game5Lokaverkefni/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Users/hetja/Documents/WackyCarZone/Game5Lokaverkefni/Content/Sindri_Blueprints/Bat1.uasset",
 				"C:/Users/hetja/Documents/WackyCarZone/Game5Lokaverkefni/Content/Sindri_Blueprints/Break_Object.uasset",
-				"C:/Users/Notandi/Documents/WackyCarZone/Game5Lokaverkefni/Content/VRTemplate/Maps/VRTemplateMap.umap",
-				"C:/Users/Notandi/Documents/WackyCarZone/Game5Lokaverkefni/Content/ToonShader/M_ChelShader.uasset",
-				"C:/Users/Notandi/Documents/WackyCarZone/Game5Lokaverkefni/Content/ToonShader/M_ToonShader.uasset",
 				"C:/Users/hetja/Documents/Unreal Projects/Game5Lokaverkefni/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
